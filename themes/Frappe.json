@@ -1,19 +1,19 @@
 {
-	"name": "Frappe",
-	"version": "1.1",
-	"description": "Catppuccin Frappe.",
-	"color": "#ca9ee6",
+	"name": "Placeholder",
+	"version": "1.0",
+	"description": "Placeholder.",
+	"color": "#1b0035",
 	"authors": [
 		{
-			"name": "112c",
+			"name": "reli",
 			"id": "696446023815397456"
 		}
 	],
 	"theme_color_map": {
-		"KEYBOARD": ["#303446", "#303446"],
+		"KEYBOARD": ["#003035", "#003035"],
 		"ACTIVITY_CARD_BACKGROUND": ["#303446", "#303446"],
-		"BACKGROUND_ACCENT": ["#292c3c", "#292c3c"],
-		"BACKGROUND_FLOATING": ["#292c3c", "#292c3c"],
+		"BACKGROUND_ACCENT": ["#a87f00", "#a87f00"],
+		"BACKGROUND_FLOATING": ["#7d002f", "#7d002f"],
 		"BACKGROUND_MENTIONED": ["#ef9f76", "#ef9f76"],
 		"BACKGROUND_MENTIONED_HOVER": ["#e5c890", "#e5c890"],
 		"BACKGROUND_MESSAGE_HOVER": ["#626880", "#626880"],
@@ -24,10 +24,10 @@
 		"BACKGROUND_MODIFIER_HOVER": ["#737994", "#737994"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#313244", "#313244"],
 		"BACKGROUND_NESTED_FLOATING": ["#303446", "#303446"],
-		"BACKGROUND_PRIMARY": ["#292c3c", "#292c3c"],
-		"BACKGROUND_SECONDARY": ["#303446", "#303446"],
-		"BACKGROUND_SECONDARY_ALT": ["#303446", "#303446"],
-		"BACKGROUND_TERTIARY": ["#292c3c", "#292c3c"],
+		"BACKGROUND_PRIMARY": ["#7d002f", "#7d002f"],
+		"BACKGROUND_SECONDARY": ["#7d002f", "#7d002f"],
+		"BACKGROUND_SECONDARY_ALT": ["#1b0035", "#1b0035"],
+		"BACKGROUND_TERTIARY": ["#7d002f", "#7d002f"],
 		"CHANNELS_DEFAULT": ["#c6d0f5", "#c6d0f5"],
 		"CHANNEL_ICON": ["#8caaee", "#8caaee"],
 		"CHANNELTEXTAREA_BACKGROUND": ["#303446", "#303446"],
